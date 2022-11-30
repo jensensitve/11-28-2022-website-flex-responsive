@@ -80,7 +80,7 @@ nav input[type="checkbox"] {
 .menu {
     height: 0.3rem;
     width: 100%;
-    /*     background-color: white; */
+    background-color: white;
     border-radius: 100px;
 }
 
