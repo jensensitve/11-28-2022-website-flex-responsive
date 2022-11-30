@@ -1,6 +1,8 @@
 # Website-11-29-2022
 ## Aufgabe
 - Positionierung von Elementen - Nachbau einer Webseite Vorlage siehe unten.
+- Von desktop nach mobile (Meiner Meinung is mobile first die einfachere Variante)
+
 ## Nachbildung einer Webseite durch einen Screenshot:
 ![This is an image](./assets/img/task_001_homepage.png)
 
@@ -8,9 +10,10 @@
     - Teilweise responsive
 ## Die Online-Version
 
-Um die Live-Version zu sehen, einfach [klicken...!](https://github.com/jensensitve/11-28-2022-website-flex-responsive/deployments/activity_log?environment=github-pages)
+Um die Live-Version zu sehen, einfach [klicken...!](https://jensensitve.github.io/11-28-2022-website-flex-responsive/)
 
-# Hamburger Menu noch nicht komplett fertig.
-    -Hamburger Menu symbol wird beim drücken nicht angezeigt.
+# Hamburger Menu funktionen/- background.
+    -Hamburger Menu Background muss noch richtig gestyled und positioniert werden.
+
 
 
