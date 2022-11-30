@@ -4,7 +4,6 @@
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 10px;
-    color: whitesmoke;
 }
 
 /* ### FONT_SIZE ### */
@@ -22,7 +21,7 @@ button {
 body {
     width: 100vw;
     height: 100vh;
-    background-image: url("/assets/img/bg_001.jpg");
+    background-image: url("./assets/img/bg_001.jpg");
     background-size: cover;
 }
 
@@ -80,7 +79,7 @@ nav input[type="checkbox"] {
 .menu {
     height: 0.3rem;
     width: 100%;
-    background-color: white;
+    /*     background-color: white; */
     border-radius: 100px;
 }
 
