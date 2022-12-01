@@ -18,7 +18,7 @@ button {
     font-size: 2vw;
 }
 
-/* ### BODY NAV HAMBURGER MENU ### */
+/* ### BODY NAV LOGO ### */
 body {
     width: 100vw;
     height: 100vh;
@@ -37,6 +37,12 @@ nav {
     width: 10vw;
 }
 
+/* ### HAMBURGER MENU CHECKBOX HIDE ### */
+nav input[type="checkbox"] {
+    display: none;
+}
+
+/* ###  NAV UL LI A ### */
 nav ul {
     display: flex;
     flex-direction: row;
@@ -181,10 +187,6 @@ button {
 
     #toggle-btn:checked~ul {
         display: block;
-    }
-
-    nav input[type="checkbox"] {
-        display: none;
     }
 
     nav ul {
